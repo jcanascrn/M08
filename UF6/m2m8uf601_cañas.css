@@ -1,0 +1,64 @@
+@media screen and (max-width: 480px){
+  body{
+  background-color: #bea2e2;
+  margin: 0;
+  padding: 0;
+  }
+
+  #Header{
+    height: 50px;
+    text-align: center;
+    background-color: #22aa9d;
+    padding-top: 10px;
+  }
+
+  #Header ul{
+    margin: 0 auto;
+    padding: 3px;
+  }
+
+  #Header li{ 
+    text-decoration: none;
+    display: inline;
+    padding: 3px;
+  }
+
+  #Noticias{
+    background-color: #a47b8d;
+    text-align: center;
+    padding: 10px;
+    overflow: hidden;
+  }
+
+  #Ops{
+    background-color: #69885e;
+    text-align: center;
+    padding: 10px;
+    overflow: hidden;
+  }
+
+  #Foot{
+    text-align: center;
+    background-color: #22aa9d;
+    clear: left;
+    height: 30px;
+  }
+
+  .News{
+    width: 90%;
+    height: 100px;
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color: #95cd86;
+  }
+
+  .Opinion{
+    width: 90%;
+    height: 75px;
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: #c389a1;
+  }
+}
